@@ -33,7 +33,7 @@ const apiKey = "7a6b628c3cb47abfb93e4b1ab733df83";
 
 ## 🖼️ Pré-visualização
 
-![Prévia do site](https://via.placeholder.com/500x300?text=Clima+em+Tempo+Real)
+![Prévia do site](https://davilaops.github.io/Clima-tempo/)
 
 ## 📄 Licença
 
