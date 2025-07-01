@@ -31,10 +31,6 @@ const apiKey = "7a6b628c3cb47abfb93e4b1ab733df83";
 ```
 > ⚠️ Recomenda-se **substituir por sua própria chave** da [OpenWeatherMap](https://openweathermap.org/api) para evitar limites ou problemas de segurança.
 
-## 🖼️ Pré-visualização
-
-![Prévia do site](https://davilaops.github.io/Clima-tempo/)
-
 ## 📄 Licença
 
 Este projeto é de uso livre para fins educacionais.
